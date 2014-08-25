@@ -1,0 +1,8 @@
+.vagrant
+.idea
+*DS_STORE
+
+packer_cache
+output-*
+*.box
+*.log
